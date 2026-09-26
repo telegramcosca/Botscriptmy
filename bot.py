@@ -21,7 +21,7 @@ TOKEN = os.environ.get("BOT_TOKEN", "8325683912:AAGkBYxhISjar-5NEGyx9C7j12HfVZtX
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
-OWNER_ID = int(os.environ.get("BOT_OWNER_ID", "8129003140"))
+OWNER_ID = int(os.environ.get("BOT_OWNER_ID", "8723990336"))
 BOT_USERNAME = "@kiteotpreciver_bot"
 BOT_NAME = "KITE OTP"
 DB_PATH = "data/bot.db"
